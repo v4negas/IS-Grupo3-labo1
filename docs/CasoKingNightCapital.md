@@ -1,0 +1,6 @@
+#CASO CAPITAL KING NIGHT#
+**El caso de Knight Capital Group demuestra la importancia que tienen los controles internos, las pruebas de software y la gestión de riesgos dentro de una empresa, especialmente cuando sus operaciones dependen de sistemas automatizados. En 2012, una falla durante la implementación de un nuevo software provocó que el sistema ejecutara millones de operaciones de manera incorrecta en cuestión de minutos, ocasionando pérdidas aproximadas de 440 millones de dólares.
+
+Desde mi punto de vista, el problema no fue únicamente técnico, sino también de gestión. La empresa no contaba con controles suficientes para detectar y detener rápidamente el comportamiento anormal del sistema. Además, el caso evidencia que una actualización de software debe realizarse mediante procesos rigurosos de prueba, supervisión y planes de contingencia.
+
+La principal enseñanza del caso Knight Capital es que la tecnología puede generar grandes beneficios, pero también riesgos importantes cuando no existe una adecuada administración y supervisión. Por ello, las empresas deben establecer controles preventivos, realizar pruebas antes de implementar cambios y contar con mecanismos de emergencia que permitan detener operaciones cuando se detecten comportamientos inesperados.**
