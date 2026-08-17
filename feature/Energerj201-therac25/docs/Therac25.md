@@ -1,18 +1,4 @@
-Caso Therac-25 (1985–1987)
-Contexto
-
-El Therac-25 fue una máquina de radioterapia médica utilizada para tratar pacientes mediante radiación. Entre 1985 y 1987 ocurrieron varios accidentes relacionados con el funcionamiento de la máquina, en los que algunos pacientes recibieron dosis excesivas de radiación.
-
-Este caso es considerado un ejemplo importante de los problemas que pueden presentarse cuando un sistema de software controla funciones críticas de seguridad.
-
-¿Qué ocurrió?
-
-Durante el desarrollo del Therac-25 se eliminaron algunos mecanismos de seguridad mecánicos utilizados en modelos anteriores, debido a la confianza depositada en el software para controlar las funciones de seguridad.
-
-Un error de software relacionado con una condición de carrera podía ocurrir cuando el operador introducía rápidamente determinadas secuencias de teclas.
-
-Como consecuencia, la máquina podía activar una configuración de alta potencia sin que el sistema de protección estuviera correctamente configurado.
-
+@ -16,47 +16,3 @@ Como consecuencia, la máquina podía activar una configuración de alta potenci
 Problema de Ingeniería de Software
 
 Uno de los principales problemas fue la dependencia excesiva del software para controlar funciones críticas de seguridad.
