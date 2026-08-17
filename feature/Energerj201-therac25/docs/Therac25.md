@@ -21,7 +21,7 @@ El caso también demuestra que confiar únicamente en el software para evitar si
 
 Principio Ágil #9
 
-La atención continua a la excelencia técnica y al buen diseño mejora la agilidad.
+La atención continua a la excelencia técnica y al buen diseño mejora la agilidad. 
 
 Este principio se relaciona directamente con el caso Therac-25 porque la calidad técnica y el buen diseño son fundamentales cuando se desarrolla software para sistemas críticos.
 
