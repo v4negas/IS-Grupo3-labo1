@@ -6,7 +6,7 @@ namespace Laboratorio1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Integrante: Abel Morales - Los 4 Valores y 12 Principios del Manifiesto Ágil");
+            Console.WriteLine("Integrante: Abel Efrain Morales Lainesz - Los 4 Valores y 12 Principios del Manifiesto Ágil");
         }
     }
 }
